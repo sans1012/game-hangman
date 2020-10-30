@@ -7,7 +7,6 @@
 const int MAXLENGTH=80;
 const int MAX_TRIES=5;
 const int MAXROW=15;
-
 int letterFill (char, char[], char[]);
 void initUnknown (char[], char[]);
 void main ()
